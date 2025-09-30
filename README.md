@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @danicrg
+👋 Hi, I’m @danicrg
 
-<!---
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning GraphML
-- 💞️ I’m looking to collaborate on exploiting bad designs.
---->
-
-<!---
-danicrg/danicrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I work at Amazon Alexa AI.
+- I created [moviedisco.com](https://moviedisco.com)
+- I built [ML Papers Weekly](https://danicrg.github.io/papers-weekly/)
+- I write sometimes at [danielcarlander.com](https://danielcarlander.com)
