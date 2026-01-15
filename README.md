@@ -4,4 +4,4 @@
 - I created [moviedisco.com](https://moviedisco.com)
 - I built [ML Papers Weekly](https://danicrg.github.io/papers-weekly/)
 - I write sometimes at [danielcarlander.com](https://danielcarlander.com)
-- My referral codes [https://refer.codes/danicrg](https://refer.codes/danicrg)
+- My referral codes [refer.codes/danicrg](https://refer.codes/danicrg)
