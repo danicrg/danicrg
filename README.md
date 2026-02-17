@@ -2,9 +2,8 @@
 📍 **San Francisco ↔ Madrid** |  🚀 **Amazon Alexa AI**
 
 ## Current Projects
-- 🪩 [moviedisco.com](https://moviedisco.com) (closed source)
-- 📄 [ML Papers Weekly](https://danicrg.github.io/papers-weekly/)
-- I write some times at [danielcarlander.com](https://danielcarlander.com)
+- 🪩 **[moviedisco.com](https://moviedisco.com)** - A movie recommendation app for letterboxd users. (closed source)
+- 📄 **[ML Papers Weekly](https://danicrg.github.io/papers-weekly/)** - A daily list of the most relevant ML papers of the past 7 days
 
 ## Connect
 
