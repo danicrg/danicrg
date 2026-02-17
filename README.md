@@ -1,7 +1,16 @@
-👋 Hi, I’m @danicrg
+# 👋 Hi, I’m Daniel
+📍 **San Francisco ↔ Madrid** |  🚀 **Amazon Alexa AI**
 
-- I work at Amazon Alexa AI.
-- I created [moviedisco.com](https://moviedisco.com)
-- I built [ML Papers Weekly](https://danicrg.github.io/papers-weekly/)
-- I write sometimes at [danielcarlander.com](https://danielcarlander.com)
-- My referral codes [refer.codes/danicrg](https://refer.codes/danicrg)
+## Current Projects
+- 🪩 [moviedisco.com](https://moviedisco.com) (closed source)
+- 📄 [ML Papers Weekly](https://danicrg.github.io/papers-weekly/)
+- I write some times at [danielcarlander.com](https://danielcarlander.com)
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@danicarlander-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/danicarlander)
+[![Blog](https://img.shields.io/badge/-danielcarlander.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://danielcarlander.com)
+[![LinkedIn](https://img.shields.io/badge/-Daniel_Carlander-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcarlander)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danicrg)
+
+My referral codes [refer.codes/danicrg](https://refer.codes/danicrg)
