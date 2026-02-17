@@ -2,7 +2,7 @@
 📍 **San Francisco ↔ Madrid** |  🚀 **Amazon Alexa AI**
 
 ## Current Projects
-- 🪩 **[moviedisco.com](https://moviedisco.com)** - A movie recommendation app for letterboxd users. (closed source)
+- 🪩 **[MovieDisco](https://moviedisco.com)** - A movie recommendation app for letterboxd users. (closed source)
 - 📄 **[ML Papers Weekly](https://danicrg.github.io/papers-weekly/)** - A daily list of the most relevant ML papers of the past 7 days
 - 👒 **[One Piece Downloader](https://github.com/danicrg/one-piece-download-upscale)** - A manga downloader and upscaler to perfect iPad resolution
 
