@@ -3,6 +3,7 @@
 
 ## Current Projects
 - 🪩 **[MovieDisco](https://moviedisco.com)** - A movie recommendation app for letterboxd users. (closed source)
+- 🧗🏼 **[Gym Leaderboard](https://danicrg.github.io/gym-leaderboard/)** - A ranking that updates daily for the strongest climbers at Dogpatch boulders in the past 30 days
 - 📄 **[ML Papers Weekly](https://danicrg.github.io/papers-weekly/)** - A daily list of the most relevant ML papers of the past 7 days
 - 👒 **[One Piece Downloader](https://github.com/danicrg/one-piece-download-upscale)** - A manga downloader and upscaler to perfect iPad resolution
 
